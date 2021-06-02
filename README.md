@@ -1,7 +1,9 @@
 <h3>Introduce</h3>
-+ dasasd
-  + dsasd
-    + asasddasdsd
+<p>
+  
+* 선린인터텟고등학교 소프트웨어과 20학번
+* 알고리즘 연구반 6기
+</p>
 
 ---
 <h3>Technology Stack</h3> 
@@ -17,3 +19,7 @@
 <h3>Solved.ac</h3> 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=third1234)](https://solved.ac/third1234)
+
+---
+<h3>Social</h3>
+<a href="https://www.facebook.com/profile.php?id=100021520385801" target="_black">페이스북</a>
