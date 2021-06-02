@@ -1,8 +1,8 @@
 <h3>Introduce</h3>
 <p>
   
-* 선린인터텟고등학교 소프트웨어과 20학번
-* 알고리즘 연구반 6기
+  * 선린인터텟고등학교 소프트웨어과 20학번
+  * 알고리즘 연구반 5기
 </p>
 
 ---
@@ -22,4 +22,4 @@
 
 ---
 <h3>Social</h3>
-<a href="https://www.facebook.com/profile.php?id=100021520385801" target="_black">페이스북</a>
+<a href="https://www.facebook.com/profile.php?id=100021520385801">Facebook</a>
