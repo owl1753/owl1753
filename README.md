@@ -8,4 +8,4 @@
 </div>
 
 ---
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={third1234})](https://solved.ac/{third1234})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=third1234)](https://solved.ac/third1234)
